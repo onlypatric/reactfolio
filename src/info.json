@@ -1,0 +1,15 @@
+{
+    "name":"Patric",
+    "surname":"Pintescul",
+    "role":"Full-stack developer",
+    "about":{
+        "title":"About me",
+        "content":"I am a full-stack developer who can easily build amazing front-end designs aswell as make secure and safe back-end that eases your mind and the one of your customers!",
+        "title2":"What I do best",
+        "content2":"I excel at building front-end apps using innovative frameworks, such as React, SwiftUI and Qt, i write as minimal as possible, keeping things simple helps build a bigger project in the end!",
+        "title3":"My social skills",
+        "content3":"My ability to keep things simple has helped others understand even the most complicated concepts, I am able to adapt that to your Team and your company in order to grow productivity as a whole.",
+        "title4": "Extras",
+        "content4": "I can read and write in 4 european languages, I got C2 english with certifications pending from known and trusted platforms, I have many google certifications that revolve around the online world, to sum it all up I can safely say that I know many general topics so I'm able to be a multi-role component in your company."
+    }
+}

@@ -1,0 +1,24 @@
+div.menu{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom:1px solid #555;
+}
+div.menu a.menu-item{
+    margin: auto;
+    color:#fff;
+    padding: 7.5px;
+    text-decoration: none;
+}
+div.menu a.menu-item:hover,div.menu a.menu-item:focus{
+    text-decoration: underline;
+}
+
+@media screen and (max-width:640px) {
+    div.menu {
+        margin: auto;
+    border-bottom: 0;
+    border-top: 1px solid #555;
+    }
+}
